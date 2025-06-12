@@ -1,0 +1,341 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "reg_no": "AD/2024/0001",
+      "password": "$2a$10$9XYNuE.OgL8jY4uOC4xLx.D3Q2Y7yKJz1Y5Z2E3R4P6V8W9Q1X2Y3",
+      "user_type": "admin",
+      "full_name": "Campus Administrator",
+      "email": "admin@novacore.edu",
+      "department": "Administration",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 2,
+      "reg_no": "SE/2024/0001",
+      "password": "$2a$10$9XYNuE.OgL8jY4uOC4xLx.D3Q2Y7yKJz1Y5Z2E3R4P6V8W9Q1X2Y3",
+      "user_type": "student",
+      "full_name": "John Doe",
+      "email": "john.doe@student.novacore.edu",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "reg_no": "SE/2022/5156",
+      "password": "$2a$10$MGaSmfTgkazHoXy.B2Dp.up5DGpJfk8BHbarcA.bb7Lr1/UAxA3m2",
+      "user_type": "student",
+      "full_name": "Pathum Vimukthi",
+      "email": "kpathum616@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 3,
+      "created_at": "2025-06-11T10:46:48.579Z",
+      "updated_at": "2025-06-11T10:46:48.579Z"
+    },
+    {
+      "reg_no": "SE/2022/5151",
+      "password": "$2a$10$p6kQKEjvK4FNGV4sxDYKZOcRsaIbsvNcM6HaABA/bkytWe36oKHsq",
+      "user_type": "student",
+      "full_name": "Pathum Vimukthi",
+      "email": "kpathum616@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 4,
+      "created_at": "2025-06-11T10:47:26.894Z",
+      "updated_at": "2025-06-11T10:47:26.894Z"
+    },
+    {
+      "reg_no": "SE/2022/5152",
+      "password": "$2a$10$aFglShBkWnEqaJSMjKHXH.4CHR9GZ0LrQNwu94DUqZAArK6hLSPjK",
+      "user_type": "student",
+      "full_name": "Pathum Vimukthi",
+      "email": "kpathum616@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 5,
+      "created_at": "2025-06-11T10:49:04.046Z",
+      "updated_at": "2025-06-11T10:49:04.046Z"
+    },
+    {
+      "reg_no": "SE/2022/0005",
+      "password": "$2a$10$NHyil04sMbVbBTwSwqMw9eQWfQtMJH6HvkLxc70je/qCj77qS07zW",
+      "user_type": "student",
+      "full_name": "Pathum Vimukthi",
+      "email": "kpathum66@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 6,
+      "created_at": "2025-06-11T10:50:50.177Z",
+      "updated_at": "2025-06-11T10:50:50.177Z"
+    },
+    {
+      "reg_no": "SE/2022/0009",
+      "password": "$2a$10$gxKhFyN7yIWq0uHY2M2t0eOdfgv/3ong/pf5PO1ZZ8OOgHgpp0kg.",
+      "user_type": "student",
+      "full_name": "Pathum",
+      "email": "kpathum66@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 7,
+      "created_at": "2025-06-11T10:51:13.321Z",
+      "updated_at": "2025-06-11T10:51:13.321Z"
+    },
+    {
+      "reg_no": "SE/2022/5150",
+      "password": "$2a$10$JH37trUGCStyxRDaAsXmEeMKaaiWjL0wJFZXIOkRROUgsGDwi0G1i",
+      "user_type": "student",
+      "full_name": "pathum",
+      "email": "pathum@gmail.com",
+      "phone": "0740516991",
+      "department": "Computer Science",
+      "year_of_study": 2,
+      "id": 8,
+      "created_at": "2025-06-11T11:06:08.826Z",
+      "updated_at": "2025-06-11T11:06:08.826Z"
+    },
+    {
+      "reg_no": "SE/2023/5211",
+      "password": "$2a$10$4bEdGZtIaVQEI.84J13sLO2D7NJjuCSOPS6YAL9f9/MN9LHcc2F1S",
+      "user_type": "student",
+      "full_name": "Thanujaya Tennekoon",
+      "email": "thanu@gmail.com",
+      "phone": "+94763253332",
+      "department": "Mathematics",
+      "year_of_study": 2,
+      "id": 9,
+      "created_at": "2025-06-12T17:47:06.562Z",
+      "updated_at": "2025-06-12T17:47:06.562Z"
+    }
+  ],
+  "class_schedules": [
+    {
+      "id": 1,
+      "class_name": "CS-2A",
+      "subject": "Data Structures",
+      "instructor": "Dr. Smith",
+      "department": "Computer Science",
+      "semester": "2024-Fall",
+      "day_of_week": "Monday",
+      "start_time": "09:00:00",
+      "end_time": "10:30:00",
+      "room_number": "201",
+      "building": "Engineering Block",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 2,
+      "class_name": "CS-2A",
+      "subject": "Database Systems",
+      "instructor": "Prof. Johnson",
+      "department": "Computer Science",
+      "semester": "2024-Fall",
+      "day_of_week": "Tuesday",
+      "start_time": "11:00:00",
+      "end_time": "12:30:00",
+      "room_number": "305",
+      "building": "Engineering Block",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 3,
+      "class_name": "CS-2A",
+      "subject": "Web Development",
+      "instructor": "Dr. Brown",
+      "department": "Computer Science",
+      "semester": "2024-Fall",
+      "day_of_week": "Wednesday",
+      "start_time": "14:00:00",
+      "end_time": "15:30:00",
+      "room_number": "102",
+      "building": "IT Block",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    }
+  ],
+  "cafeteria_menus": [
+    {
+      "id": 1,
+      "menu_date": "2025-06-09",
+      "meal_type": "lunch",
+      "item_name": "Chicken Biryani",
+      "description": "Aromatic basmati rice with tender chicken pieces",
+      "price": 8.5,
+      "category": "Main Course",
+      "is_vegetarian": false,
+      "is_available": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 2,
+      "menu_date": "2025-06-09",
+      "meal_type": "lunch",
+      "item_name": "Vegetable Biryani",
+      "description": "Aromatic basmati rice with mixed vegetables",
+      "price": 7,
+      "category": "Main Course",
+      "is_vegetarian": true,
+      "is_available": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 3,
+      "menu_date": "2025-06-09",
+      "meal_type": "lunch",
+      "item_name": "Caesar Salad",
+      "description": "Fresh lettuce with caesar dressing and croutons",
+      "price": 5.5,
+      "category": "Salads",
+      "is_vegetarian": true,
+      "is_available": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    }
+  ],
+  "bus_schedules": [
+    {
+      "id": 1,
+      "route_name": "City Center Route",
+      "bus_number": "BUS-001",
+      "departure_location": "University Main Gate",
+      "arrival_location": "City Center Mall",
+      "departure_time": "08:00:00",
+      "arrival_time": "08:45:00",
+      "days_of_operation": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "fare": 2.5,
+      "capacity": 45,
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 2,
+      "route_name": "Airport Route",
+      "bus_number": "BUS-002",
+      "departure_location": "University Main Gate",
+      "arrival_location": "International Airport",
+      "departure_time": "06:00:00",
+      "arrival_time": "07:30:00",
+      "days_of_operation": [
+        "Friday",
+        "Sunday"
+      ],
+      "fare": 15,
+      "capacity": 35,
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Annual Tech Fest 2025",
+      "description": "A grand celebration of technology and innovation",
+      "event_date": "2025-12-15",
+      "start_time": "09:00:00",
+      "end_time": "18:00:00",
+      "location": "Main Auditorium",
+      "organizer": "Student Council",
+      "department": "Computer Science",
+      "event_type": "Festival",
+      "registration_required": true,
+      "max_participants": 500,
+      "contact_email": "techfest@novacore.edu",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    },
+    {
+      "id": 2,
+      "title": "Career Fair",
+      "description": "Meet with top employers and explore career opportunities",
+      "event_date": "2025-11-20",
+      "start_time": "10:00:00",
+      "end_time": "16:00:00",
+      "location": "Sports Complex",
+      "organizer": "Career Services",
+      "department": "All Departments",
+      "event_type": "Career",
+      "registration_required": true,
+      "max_participants": 1000,
+      "contact_email": "career@novacore.edu",
+      "is_active": true,
+      "created_at": "2025-06-09T12:47:28.646Z"
+    }
+  ],
+  "university_updates": [
+    {
+      "id": 1,
+      "title": "New Library Hours",
+      "content": "The university library will now be open 24/7 during exam periods. Students can access study rooms and computer labs round the clock.",
+      "summary": "Library now open 24/7 during exams",
+      "category": "Facilities",
+      "priority": "medium",
+      "target_audience": "students",
+      "publish_date": "2025-06-09",
+      "is_published": true,
+      "created_by": 1,
+      "created_at": "2025-06-09T12:47:28.647Z"
+    },
+    {
+      "id": 2,
+      "title": "Semester Registration Open",
+      "content": "Online registration for Fall 2025 semester is now open. Students must complete registration before the deadline.",
+      "summary": "Fall 2025 registration is open",
+      "category": "Academic",
+      "priority": "high",
+      "target_audience": "students",
+      "publish_date": "2025-06-09",
+      "is_published": true,
+      "created_by": 1,
+      "created_at": "2025-06-09T12:47:28.647Z"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What are the library opening hours?",
+      "answer": "The library is open Monday to Friday from 8:00 AM to 10:00 PM, weekends from 9:00 AM to 6:00 PM. During exam periods, it operates 24/7.",
+      "category": "Facilities",
+      "keywords": [
+        "library",
+        "hours",
+        "timings"
+      ],
+      "popularity_score": 0,
+      "is_active": true,
+      "created_by": 1,
+      "created_at": "2025-06-09T12:47:28.647Z"
+    },
+    {
+      "id": 2,
+      "question": "How do I access the university WiFi?",
+      "answer": "Connect to \"NovaCore-Student\" network and use your student registration number as username and your date of birth (DDMMYYYY) as password.",
+      "category": "Technology",
+      "keywords": [
+        "wifi",
+        "internet",
+        "network",
+        "password"
+      ],
+      "popularity_score": 0,
+      "is_active": true,
+      "created_by": 1,
+      "created_at": "2025-06-09T12:47:28.647Z"
+    }
+  ],
+  "chat_sessions": [],
+  "chat_messages": []
+}
