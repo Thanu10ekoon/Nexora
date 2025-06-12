@@ -241,13 +241,13 @@ This project is done by Scorpion X part of the Nexora competition by NSBM and is
 
 For technical support or questions about Campus Copilot, please contact the development team or create an issue in the repository.
 
-## Team
-# Scorpion X
+# Team
+## Scorpion X
 
-T.M.T.A.B.Tennekoon - Team Lead, Chatbot implementation using AI/ML knowledge
-W.A.P.V. Kumara - Cyber Security Specialist, Ensured APIs Security and Vulnability analysis
-T.M.R.G. Thennakoon - Backend Developer, Organized the backend with proper architecture
-K.A.D.H. Keragala - UI/UX Designer, Frontend UI/UX design
+- T.M.T.A.B.Tennekoon - Team Lead, Chatbot implementation using AI/ML knowledge
+- W.A.P.V. Kumara - Cyber Security Specialist, Ensured APIs Security and Vulnability analysis
+- T.M.R.G. Thennakoon - Backend Developer, Organized the backend with proper architecture
+- K.A.D.H. Keragala - UI/UX Designer, Frontend UI/UX design
 
 
 
