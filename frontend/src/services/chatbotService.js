@@ -1513,7 +1513,7 @@ Would you like me to help you find campus resources to research this topic, expl
       if (mealItems.length > 0) {
         response += `**${mealType.charAt(0).toUpperCase() + mealType.slice(1)}:**\n`;
         mealItems.slice(0, 3).forEach(item => {
-          response += `• ${item.item_name} - LKR${item.price}\n`;
+          response += `• ${item.item_name} - ₹${item.price}\n`;
         });
         response += '\n';
       }
@@ -1539,7 +1539,7 @@ Would you like me to help you find campus resources to research this topic, expl
       response += `🚌 **${bus.route_name}**\n`;
       response += `📍 ${bus.departure_location} → ${bus.arrival_location}\n`;
       response += `⏰ ${bus.departure_time} - ${bus.arrival_time}\n`;
-      response += `💰 LKR${bus.fare}\n\n`;
+      response += `💰 ₹${bus.fare}\n\n`;
     });
 
     response += "*Have a safe trip! 🚌*";
